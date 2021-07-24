@@ -1,6 +1,6 @@
 # Dank-Memer
 
-An android app which lets you view & share memes among your friends on easy swipes. The app is mainly written in Kotlin and uses the Gradle build system. It uses "dankmemes" subreddit to fetch memes.
+An android app that lets you view & share memes among your friends on easy swipes. The app is mainly written in Kotlin and uses the Gradle build system. It uses "dankmemes" subreddit to fetch memes.
 
 
 ## External Libraries Used
